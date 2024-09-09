@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/app.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/ENS160.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/ESP32.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32gest_I2C.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/MCP74911.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/GesFifoTh32.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32NVMUtil.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/RTC_I2cUtilCCS.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/BME280.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Gest_Menu.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32DriverAdc.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/RTCgest_I2C.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32_I2cUtilCCS.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32Delays.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/2002/firmware/src/Mc32gest_RS232.h</file>
+        </group>
+    </open-files>
+</project-private>

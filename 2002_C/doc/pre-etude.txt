@@ -1,0 +1,55 @@
+Support pile AAA : 
+https://www.mouser.ch/ProductDetail/Hammond-Manufacturing/BH4AAAW?qs=BJ2NLfHFoSn9QKdWbLbhRA%3D%3D
+
+Gestion pile nimh a plusieur celule :
+BQ2000
+https://www.mouser.ch/ProductDetail/Texas-Instruments/BQ2000PW?qs=%252BvKcWiXw%252BzSF5hFjrELEyg%3D%3D&_gl=1*1ilh8hy*_ga*MTU5MTMzNzE3Ny4xNzAyMjkxMTYy*_ga_15W4STQT4T*MTcyMzAyOTczNy41LjAuMTcyMzAyOTczOS41OC4wLjA.*_ga_1KQLCYKRX3*MTcwOTIxMjEyMi4xLjEuMTcwOTIxMzg4NC4wLjAuMA..
+DS2715
+https://www.mouser.ch/ProductDetail/Analog-Devices-Maxim-Integrated/DS2715BZ%2b?qs=LHmEVA8xxfbq0dIGeLTtpw%3D%3D
+
+Regulateur 3v :
+MAX1793EUE33
+https://www.mouser.ch/ProductDetail/Analog-Devices-Maxim-Integrated/MAX1793EUE33%2b?qs=1THa7WoU59Fz7xqCd4dBkA%3D%3D
+
+lecture adc de la tension de sortie des pile aaa(utile pour determiner le pourcentage de charge et aussi si nimh ou pas)
+
+pour les coupure utliser des mosfet(canal N),gate sur uc,drain l'embuchure, source a la masse. 
+
+premier controle si USB-C brancher, pile nimh ou pas, si oui activer la charge. 
+
+pas de USB-C alimenter le sytheme avec les pile.
+
+graphe pile akaline :
+https://www.procell.com/wp-content/uploads/2023/04/Datasheet_Constant_AAA-_PC2400.pdf
+
+graphe pile nimh :
+https://www.mouser.ch/datasheet/2/315/3513_fileversion-1627229.pdf
+
+LED RGB if=2mA :
+https://www.mouser.ch/ProductDetail/Kingbright/APHF1608LSEEQBDZGKC?qs=YCa%2FAAYMW02iGkI4tWMQgA%3D%3D
+
+USB to Uart operat supli current 8mA, no USB 125uA:
+https://www.mouser.ch/ProductDetail/FTDI/FT230XS-R?qs=Gp1Yz1mis3XyCLeYOseSng%3D%3D
+
+ESP32-S3-WROOM-2 :
+https://www.mouser.ch/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-2-N16R8V?qs=Rp5uXu7WBW%2Fbmj6VRWU1MQ%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=ESP32-S3-WROOM-2-N16R8V&utm_content=Espressif-Systems
+
+capteur:
+https://www.sparkfun.com/products/22858
+
+micro changer le nombre de pin, RTC interne ou obligatoirement externe plus vbat ? 
+
+micro pic32mx130f256 :
+https://www.mouser.ch/ProductDetail/Microchip-Technology/PIC32MX130F256D-50I-PT?qs=XR%2FfMt4sL%252BEAZuPDxF6NKQ%3D%3D
+
+RTC MCP79411 :
+https://www.mouser.ch/ProductDetail/Microchip-Technology/MCP79411T-I-SN?qs=ggQiQSXuoRV2GLrIyKLsiw%3D%3D
+
+
+max1651csa+:
+https://www.mouser.ch/ProductDetail/Analog-Devices-Maxim-Integrated/MAX1651CSA%2b?qs=Mqkh4jHMT8wuC9%252BQhJIcNg%3D%3D
+
+
+
+
+

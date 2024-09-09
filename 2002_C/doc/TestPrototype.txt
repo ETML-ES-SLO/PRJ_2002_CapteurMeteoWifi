@@ -1,0 +1,20 @@
+Test du prototype
+
+bug remarquer :
+
+1. le programme apres environs 1 minute
+	(problablement du a la lecture vu quel est time sur 60s)
+2. quand on veut modifier une valeur dans Periode mesure,altitude 
+	nous somme bloquer dans le menu
+3. la sauvegarde avec la touche q ne fonctionne pas reste bloquer dans menu principal
+
+partie fonctionnel :
+1. la connection Wifi ce fait nous recuperons bien l'adresse ip et MAC.
+2. les menu Reglage Wifi et domoticz sont fonctionnel(mais nous pouvons les sauvgarder).
+3. quitter le menu sans save est fonctionnel ainsi que le fait d'entrée dans le menu.
+
+Routeur operationel et le serveur Domoticz tester est fonctionel(tester avec requête HTTP).
+test effectuer sur mon portable personnel.
+
+Pour les bug il sagit probablement d'erreure au niveau software, lecture des valeur ou 
+l'envoie de requete.

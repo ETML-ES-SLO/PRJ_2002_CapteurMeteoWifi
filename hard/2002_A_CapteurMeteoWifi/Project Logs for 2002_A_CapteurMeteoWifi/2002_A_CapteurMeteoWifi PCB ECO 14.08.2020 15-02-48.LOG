@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=VCC NewDesignator=TP2
+Change Component Designator: OldDesignator=VUSB NewDesignator=TP1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=VBUS
+Change Net Name : Old Net Name=NetC8_1 New Net Name=VCCREG
+Added Room: Name=2002_A_CapteurMeteoWifi

@@ -1,0 +1,16 @@
+Added Component: Designator=J1(Molex_105164-0001_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105164-0001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=J1-1
+Added Pin To Net: NetName=NetC2_1 Pin=J1-2
+Added Pin To Net: NetName=NetC3_1 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component J1 105164-0001
+Added Room: Name=2002_A_CapteurMeteoWifi

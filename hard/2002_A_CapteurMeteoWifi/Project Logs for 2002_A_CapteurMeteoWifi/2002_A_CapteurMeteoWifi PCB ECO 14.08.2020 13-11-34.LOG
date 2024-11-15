@@ -1,0 +1,8 @@
+Added Component: Designator=TP1(TESTPOINT_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TESTPOINT_SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VUSB Pin=TP1-1
+Added Pin To Net: NetName=NetC8_1 Pin=TP2-1
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component TP1 5019
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component TP2 5019

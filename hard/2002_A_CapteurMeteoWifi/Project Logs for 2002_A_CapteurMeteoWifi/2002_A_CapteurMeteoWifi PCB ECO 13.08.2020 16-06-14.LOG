@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=VUSB Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=LED_G Pin=D1-1
+Removed Pin From Net: NetName=LED_G Pin=J3-9
+Removed Pin From Net: NetName=NetD1_2 Pin=R5-1
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=LED_G Pin=U2-9
+Removed Pin From Net: NetName=WIFI_TX Pin=Wifi ESP click-13
+Removed Pin From Net: NetName=WIFI_RX Pin=Wifi ESP click-14
+Removed Member From Class: ClassName=2002_A_CapteurMeteoWifi Member=C9
+Change Component Footprint: Designator=D1 Old Footprint=LEDC2012X105N New Footprint=150066M153000
+Change Component Comment : Designator=D1 Old Comment=APTD2012LZGCK New Comment=Red & Green & Blue,120°
+Change component parameters: Designator = "C1"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\QBUWMFDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\YEALYGSL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\KVCGBLPR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\DPCRZFBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\UZWZQUSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\EKUWTGEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\RQFYNQUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\MNOISZBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\TYEFQNJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\VPATQYIK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\UEOHFUNZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\OUNHXOBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\HRRVPYCZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\AEJONULU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\PSADARCV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "150066M153000"; UniqueID = "\IWLHEUPF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/led/datasheet/150066M153000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dominant Wavelength"; Value = "470 nm@Blue, 525 nm@Green, 624 nm@Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitting Color"; Value = "Red & Green & Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "3.3 V@Blue, 3.3 V@Green, 2 V@Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "180 mcd@Blue, 900 mcd@Green, 285 mcd@Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "150066M153000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "468 nm@Blue, 520 nm@Green, 632 nm@Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0606"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=R6(LIRD-MI0805K601R-10-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(LIRD-MI0805K601R-10-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(LIRD-MI0805K601R-10-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(430181038816)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/430181038816.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "430181038816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "430181038816"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-4
+Added Pin To Net: NetName=LED_G Pin=J4-5
+Added Pin To Net: NetName=LED_G Pin=R5-1
+Added Pin To Net: NetName=NetD1_2 Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=LED_G Pin=U2-24
+Added Pin To Net: NetName=WIFI_RX Pin=Wifi ESP click-13
+Added Pin To Net: NetName=WIFI_TX Pin=Wifi ESP click-14
+Change Net Name : Old Net Name=WIFI_CTS New Net Name=WIFI_EN
+Change Net Name : Old Net Name=WIFI_RTS New Net Name=WIFI_RST
+Added Pin To Net: NetName=BUTTON Pin=J3-9
+Added Pin To Net: NetName=BUTTON Pin=R8-1
+Added Pin To Net: NetName=BUTTON Pin=SW2-1
+Added Pin To Net: NetName=BUTTON Pin=SW2-2
+Added Pin To Net: NetName=BUTTON Pin=U2-9
+Added Net: Name=BUTTON
+Added Pin To Net: NetName=LED_B Pin=J4-4
+Added Pin To Net: NetName=LED_B Pin=R6-1
+Added Pin To Net: NetName=LED_B Pin=U2-25
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_R Pin=J4-6
+Added Pin To Net: NetName=LED_R Pin=R7-1
+Added Pin To Net: NetName=LED_R Pin=U2-23
+Added Net: Name=LED_R
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R7-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=R5-2
+Added Net: Name=NetD1_3
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component R6 Resistor
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component R7 Resistor
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component R8 Resistor
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component SW2 430181038816
+Added Room: Name=2002_A_CapteurMeteoWifi

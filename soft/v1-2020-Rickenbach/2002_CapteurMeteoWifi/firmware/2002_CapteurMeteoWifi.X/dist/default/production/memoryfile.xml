@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/2002_CapteurMeteoWifi.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>263312</length>                 
+      <used>57588</used>                     
+      <free>205724</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>2716</used>                     
+      <free>13668</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

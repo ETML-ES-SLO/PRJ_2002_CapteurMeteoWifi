@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BUTTON Pin=J3-9
+Removed Pin From Net: NetName=SENS_W\A\K\ Pin=J4-3
+Removed Pin From Net: NetName=BUTTON Pin=U2-9
+Removed Pin From Net: NetName=SENS_W\A\K\ Pin=U2-26
+Added Pin To Net: NetName=SENS_W\A\K\ Pin=J3-9
+Added Pin To Net: NetName=BUTTON Pin=J4-3
+Added Pin To Net: NetName=SENS_W\A\K\ Pin=U2-9
+Added Pin To Net: NetName=BUTTON Pin=U2-26
+Added Room: Name=2002_A_CapteurMeteoWifi

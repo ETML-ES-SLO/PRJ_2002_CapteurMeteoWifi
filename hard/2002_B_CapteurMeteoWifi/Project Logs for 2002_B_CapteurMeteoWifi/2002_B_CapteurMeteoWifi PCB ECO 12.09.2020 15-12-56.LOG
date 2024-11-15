@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=D1-4
+Removed Pin From Net: NetName=LED_B Pin=J4-5
+Removed Pin From Net: NetName=LED_G Pin=J4-6
+Removed Pin From Net: NetName=LED_G Pin=U2-23
+Removed Pin From Net: NetName=LED_B Pin=U2-24
+Change Component Comment : Designator=J5 Old Comment=SEN-14193 New Comment=SEN-14348
+Added Pin To Net: NetName=LED_G Pin=J4-5
+Added Pin To Net: NetName=LED_B Pin=J4-7
+Added Pin To Net: NetName=LED_B Pin=U2-22
+Added Pin To Net: NetName=LED_G Pin=U2-24
+Added Pin To Net: NetName=RB12 Pin=J4-6
+Added Pin To Net: NetName=RB12 Pin=U2-23
+Added Net: Name=RB12
+Change Class Name : Old Net Name=2002_A_CapteurMeteoWifi New Net Name=2002_B_CapteurMeteoWifi
+Added Room: Name=2002_B_CapteurMeteoWifi

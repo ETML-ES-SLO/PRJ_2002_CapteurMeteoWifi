@@ -1,0 +1,4 @@
+Added Component: Designator=GND(TESTPOINT_SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Member To Class: ClassName=2002_A_CapteurMeteoWifi Member=Component GND 5019

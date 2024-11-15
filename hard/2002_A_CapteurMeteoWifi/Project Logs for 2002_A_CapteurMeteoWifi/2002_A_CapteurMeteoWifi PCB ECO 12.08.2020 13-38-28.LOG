@@ -1,0 +1,71 @@
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C3 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C4 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C5 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C6 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C7 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C8 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C9 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C10 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C11 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=C12 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=R1 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=R3 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=LIRD-MI0805K601R-10-2_V
+Change Component Footprint: Designator=U1 Old Footprint=FTDI-SSOP-16_L New Footprint=FTDI-SSOP-16_L
+Change Component Footprint: Designator=L1 Old Footprint=LIRD-MI0805K601R-10-2_V New Footprint=LIRD-MI0805K601R-10-2_V
+Change component parameters: Designator = "C1"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\QBUWMFDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\YEALYGSL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\KVCGBLPR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\DPCRZFBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\UZWZQUSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\EKUWTGEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\RQFYNQUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\MNOISZBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\YRQSABDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\TYEFQNJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\VPATQYIK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\UEOHFUNZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\OUNHXOBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\HRRVPYCZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\AEJONULU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\PSADARCV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "LIRD-MI0805K601R-10-2_V"; UniqueID = "\EKOFCEUK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=2002_A_CapteurMeteoWifi

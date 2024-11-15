@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\dierickenbach\Dropbox\ETML-ES\_Travail de Diplôme\2002_CapteurMeteoWifi\hard\2002_A_CapteurMeteoWifi\PCBs\2002_A_CapteurMeteoWifi.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2002_a_capteurmeteowifi-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=2002_a_capteurmeteowifi-slotholes.txt|DrillLayers=gtl,gbl

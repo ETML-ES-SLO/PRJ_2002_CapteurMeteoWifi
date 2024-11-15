@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [2002_A_CapteurMeteoWifi.PcbDoc]
+   Generated File[2002_A_CapteurMeteoWifi-RoundHoles.TXT]
+   Generated File[2002_A_CapteurMeteoWifi-SlotHoles.TXT]
+   Generated File[2002_A_CapteurMeteoWifi.LDP]
+   Generated File[2002_A_CapteurMeteoWifi.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:34:16 On 18.08.2020
